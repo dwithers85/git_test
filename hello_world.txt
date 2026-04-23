@@ -1,1 +1,2 @@
 Hello, I am Smurf
+This is another line
